@@ -1,4 +1,5 @@
-### Hi there I'm Mumani (a.k.a. vivi) 🦜
+### Hi 안녕 🤗
+### I'm Mumani (a.k.a. vivi) 🦜
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYebinKim&count_bg=%23F7CAC9&title_bg=%2392A8D1&icon=swift.svg&icon_color=%23F7CAC9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
